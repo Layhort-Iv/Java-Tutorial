@@ -1,4 +1,4 @@
-package Inheritance;
+package Exercise.Inheritance;
 
 class Horse{
     private String name, color;
@@ -28,6 +28,7 @@ class Horse{
         return birthYear;
     }
 }
+
 class RaceHorse extends Horse{
     private int numberOfRaces;
 

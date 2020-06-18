@@ -1,4 +1,4 @@
-package Inheritance;
+package Exercise.Inheritance;
 
 class Candle{
     private String color;
